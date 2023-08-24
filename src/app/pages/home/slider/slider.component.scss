@@ -1,0 +1,46 @@
+@media only screen and (max-width: 992px) {
+
+    /*
+      Hero Section Start
+    --------------------------------*/
+    .hero-section-slider {
+        width: 100% !important;
+    }
+
+    .hero-section-slider .carousel-inner {
+        height: 60vh;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+
+    /*
+      Hero Section Start
+    --------------------------------*/
+    .hero-section-slider {
+        width: 100%;
+    }
+
+    .hero-section-slider .carousel-inner {
+        height: 60vh;
+    }
+
+}
+
+
+
+
+@media only screen and (max-width: 480px) {
+
+    /*
+      Hero Section Start
+    --------------------------------*/
+    .hero-section-slider {
+        width: 100%;
+    }
+
+    .hero-section-slider .carousel-inner {
+        height: 60vh;
+    }
+
+}
